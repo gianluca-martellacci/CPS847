@@ -4,8 +4,3 @@ language: python
   script:
     - pytest
     
-<<<<<<< HEAD
-    TESTing 22
-=======
-    TESTing 11
->>>>>>> testbranch
